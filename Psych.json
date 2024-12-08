@@ -12,7 +12,7 @@
               "\"Heard about Pluto? That's messed up.\"",
               "\"Gus, don't be a gooey chocolate chip cookie.\""
           ],
-          "PsychImage": "ps_1.jpeg"
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_1.jpeg"
       },
       {
           "PsychSeason": "Psych: Season 2",
@@ -26,8 +26,7 @@
               "\"Remember, Dad, you treat a woman like a person, then a princess, then a goddess, then a person again.\"",
               "\"Gus, don't be a giant snapping turtle.\""
           ],
-          "PsychImage": "ps_22.jpeg"
-      },
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_22.jpeg"      },
       {
           "PsychSeason": "Psych: Season 3",
           "PsychDescription": "In Season 3 of Psych, Shawn and Gus take everything from an investigation into the haunted house to the murder at their high school reunion. It gives more depth to the character relationships, especially Shawn and his mom and friends, and shows there is so much more to Shawn than his jokes. Season 3 solidifies Psych's appeal by offering a slew of engaging plots and many clever twists.",
@@ -39,8 +38,7 @@
               "\"How can you tell someone's a complusive liar? I mean assuming that their pants aren't on fire.\"",
               "\"I’m nobody’s pawn, Shawn. I’m a Queen.\""
           ],
-          "PsychImage": "ps_3.jpg"
-      },
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_3.jpg"      },
       {
           "PsychSeason": "Psych: Season 4",
           "PsychDescription": "Season four of Psych is a roller coaster ride of maze banter and improbable twist and turns. Shawn and Gus solve everything from the pursuit of an art thief across Canada down to the solving of a murder where the victim had been shark-attacked. As personal relationships, most importantly Shawn's complicated relationship with Abigail, start to evolve, the stakes grow higher and higher before a dramatic showdown with menacing Mr. Yin. The season does a good job of balancing out humor and suspense, further building on Psych's good name for entertaining storytelling.",
@@ -52,8 +50,7 @@
               "\"I don't lose things. I place things in locations which later elude me.\"",
               "\"Gus, don't be Nic Cage's accent from 'Con Air'.\""
           ],
-          "PsychImage": "ps_4.jpg"
-      },
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_4.jpg"      },
       {
           "PsychSeason": "Psych: Season 5",
           "PsychDescription": "Season 5 of Psych opens with an exciting combination of crime-solving and character development. Shawn and Gus find themselves embroiled in high-stakes cases, from the kidnapping of a Triad leader's daughter to a murder somehow linked to a haunted house ride. The duo's dynamic is stretched to its limits as they struggle to keep personal relationships in check, mainly Shawn's evolving emotions toward Juliet. That's a season full of laughs and truly poignant moments, none of which is complete without the edge-of-your-seat action that's the final confrontation with mysterious Mr. Yin and his connection with the past.",
@@ -66,8 +63,7 @@
               "\"Take pictures. Not of sights. Don’t take pictures of buildings. Take pictures of moments, because that’s what matters.\"",
               "\"Gus, don't be the scream from 'Holding Back the Years'.\""
           ],
-          "PsychImage": "ps_s5.jpg"
-      },
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_s5.jpg"      },
       {
           "PsychSeason": "Psych: Season 6",
           "PsychDescription": "Season 6 of Psych only continued the tradition of the show in melding comedy and mystery as Shawn and Gus delve into even more complex cases. It starts off with Shawn going on a mission to find a collectible and coming across a body, which places his credibility as a psychic in much jeopardy. The season contains more character-driven episodes, especially in the relationship between Shawn and Juliet, as they go through personal and professional tests.",
@@ -80,8 +76,7 @@
               "\"Well, the plot, unlike your hair, continues to thicken.\"",
               "\"Gus, don't be the mystery mousketool.\""
           ],
-          "PsychImage": "ps_6.jpeg"
-      },
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_6.jpeg"      },
       {
           "PsychSeason": "Psych: Season 7",
           "PsychDescription": "Season 7 of Psych deals with the emotional aftermath of Henry getting shot. Shawn is determined to catch the bad guy. Episodes especially involve follow-ups in the case of Juliet finding out about Shawn's secret regarding his \"psychic\" abilities. The season includes humorous and mysterious parables, one of which is the 100th episode-a parody of Clue-wherein there is a murder mystery in a mansion. The coming season is even fuller of personal tests and changes awaiting the characters of SBPD, a sort of bridge to further plot development in the future of the series.",
@@ -93,8 +88,7 @@
               "\"Man, I'm nobody's charity case. I demand I dig my own grave!\"",
               "\"I'm good at what I do and what I do is good. Isn't it?\""
           ],
-          "PsychImage": "ps_7.jpeg"
-      },
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_7.jpeg"      },
       {
           "PsychSeason": "Psych: Season 8",
           "PsychDescription": "Season 8 of Psych opens with Shawn and Gus flying to London on some insane undercover mission as Interpol calls them in. This season continues the development of the character dynamics, especially with a lot of Lassiter's difficulties after his demotion, his developing relationship with Juliet. Notably, it self-spoofs in its remake of an earlier episode and sprinklings of humor and suspense throughout, Shawn and Gus take on everything from a murder on a food truck to paranormal conventions. The season ends with an emotional finale, where Shawn chooses to relocate to San Francisco with Juliet, including a proposal and a thrilling chase, while leaving some plot points to be continued in Psych: The Movie.",
@@ -107,8 +101,7 @@
               "\"Kudos on the childrearing. Let me know how the therapy goes.\"",
               "\"We Are Men, Gus. The World Is Our Toilet.\""
           ],
-          "PsychImage": "ps_8.jpeg"
-      }
+          "PsychImage": "https://raw.githubusercontent.com/ScSmitty/IT315Psych/refs/heads/main/ps_8.jpeg"      }
   ]
   "Status":"OK"
 }
